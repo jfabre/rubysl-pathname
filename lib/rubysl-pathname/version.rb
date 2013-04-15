@@ -1,0 +1,5 @@
+module RubySL
+  module Pathname
+    VERSION = "0.0.1"
+  end
+end
